@@ -2,7 +2,7 @@
 # Purpose Details: Receive a secure JSON payload from APP1 over TLS,
 #                  save it to a file, and log pass/fail events to Eve/MongoDB.
 # Course: HCDD 411
-# Author: Kelly Rawlings, De'Von Williams
+# Author: Mark Jachura
 # Due Date: 12 October, 2025
 # Date Developed: 10/09/2025
 # Last Date Changed: 10/09/2025
@@ -11,7 +11,7 @@
 """
 Project: Project Diamond - APP2
 Course: HCDD 411
-Authors: Kelly Rawlings, De'Von Williams
+Author: Mark Jachura
 Due Date: 12 October, 2025
 
 App2 TLS Receiver and Forwarder

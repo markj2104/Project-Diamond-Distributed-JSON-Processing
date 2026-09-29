@@ -1,8 +1,8 @@
 # Project Diamond: distributed JSON processing
 
-A team coursework project connecting JSON retrieval, TLS transport, SFTP transfer, HMAC-SHA256 verification, Pyro4 remote calls, and Eve/MongoDB activity logging.
+A coursework project by Mark Jachura connecting JSON retrieval, TLS transport, SFTP transfer, HMAC-SHA256 verification, Pyro4 remote calls, and Eve/MongoDB activity logging.
 
-**My contribution:** App3 processing and the Eve/MongoDB logging components, developed with teammates. Original author credits remain in the source.
+**Author:** Mark Jachura. Developed the complete project, including all four application services and the Eve/MongoDB logging components.
 
 ## Source map
 

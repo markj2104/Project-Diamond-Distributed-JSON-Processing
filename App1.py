@@ -7,7 +7,7 @@
                 #the activity MongoDB NoSQL database via Eve with a 
                 #timestamp. Unit tests will confirm all methods are functional
 # Course: IST 411
-# Author: Marcos Ruiz 
+# Author: Mark Jachura 
 # Date Developed: 10/8/2025
 # Last Date Changed: 10/9/2025
 # Rev: 1

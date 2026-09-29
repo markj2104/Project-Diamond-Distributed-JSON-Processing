@@ -6,7 +6,7 @@ Purpose Details:
     NoSQL database with a timestamp. Unit tests will confirm all methods are functional.
 
 Course: HCDD 411
-Author: Marcos Ruiz
+Author: Mark Jachura
 Date Developed: 11/21/2025
 Last Date Changed: 11/21/2025
 Rev: 1

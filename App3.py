@@ -1,7 +1,7 @@
 # Project: Project Diamond – App 3
 # Purpose Details: Receive secure SFTP payload from App2, verify HMAC-SHA256, and email verified payload to team
 # Course: HCDD 411
-# Author: Mark Jachura & Kelly Indigo Rawlings
+# Author: Mark Jachura
 # Date Developed: 10/27/2025
 # Last Date Changed: 10/30/2025
 # Revision: 4

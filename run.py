@@ -25,7 +25,7 @@ To generate HTML doc for this module, run:  pydoc -w run
                 #the activity MongoDB NoSQL database via Eve with a
                 #timestamp. Unit tests will confirm all methods are functional
 # Course: HCDD 411
-# Author: Mark Jachura, De'Von Williams
+# Author: Mark Jachura
 # Date Developed: 10/10/2025
 # Last Date Changed: N/A
 # Rev: 1
